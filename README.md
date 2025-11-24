@@ -1,3 +1,3 @@
 # to pull the images
-docker push jialehao/go-proj:tagname
+docker pull jialehao/go-proj:leaderboard
 
